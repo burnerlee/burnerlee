@@ -39,7 +39,8 @@ func GetBio() Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=burnerlee&show_icons=true&theme=synthwave&count_private=true&hide=stars&include_all_commits=true" alt="burnerlee :: Profile Stats" /></p>
-<p align="center"><img src="http://media.tumblr.com/tumblr_m395ceZu701qmoi6z.gif" alt="Spiderman" height="300" width="500"></p>
+
+<p align="center"><img src="./spiderman.gif" alt="Spiderman" height="300" width="500"></p>
 
 ---
 
